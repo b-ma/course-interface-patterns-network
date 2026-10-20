@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-osc": "^11.7.1",
+    "node-web-audio-api": "^2.2.0"
+  }
+}
